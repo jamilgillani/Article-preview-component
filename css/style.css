@@ -57,10 +57,6 @@ h1, h2, h3, h4, h5, h6 {
   --light-gryish-blue: hsl(210, 46%, 95%);
 }
 
-li {
-  list-style: none;
-}
-
 span{
   display: inline-block;
 }
@@ -125,7 +121,7 @@ span{
   gap: 1.2rem;
 }
 
-.profile .info h3 {
+.profile .info p {
   font-size: 1.1rem;
   margin-bottom: 0.2rem;
   color: var(--very-dark-grayish-blue);
