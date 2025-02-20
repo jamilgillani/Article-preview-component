@@ -1,0 +1,1 @@
+i took more than a week to learn javscript basic and implement it in this code.
